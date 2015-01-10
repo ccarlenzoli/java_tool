@@ -1,2 +1,2 @@
 # java_tool
-Rpository for nice java tools
+Repository for nice java tools
